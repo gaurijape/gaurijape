@@ -52,7 +52,7 @@ At Oracle Cloud Infrastructure, I:
 
 ---
 
-*"Solving everyday problems by building mini projects."*## Hi there 👋
+*"Solving everyday problems by building mini projects."*
 
 <!--
 **gaurijape/gaurijape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
