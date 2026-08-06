@@ -9,17 +9,22 @@ I solve everyday problems by building mini projects. 🛠️
 ## 🚀 Projects
 
 ### 🧠 [BrainBurst — Math & Science Practice](https://kid-quiz-app.vercel.app/)
-An interactive quiz app for 2nd graders covering math and science concepts. Built for my own child.
+My son is going to 2nd grade and I wanted a fun, focused way to keep him sharp over summer. So I built one.
+- **Real problem:** Keep a 7-year-old engaged with math and science during summer break
+- **Result:** A kid-friendly quiz app he actually wants to use
 - **Stack:** JavaScript, Supabase, Vercel
-- **Features:** Grade-appropriate quizzes, score tracking, kid-friendly UI
 
 ### 💪 [Soft75 — Wellness Habit Tracker](https://gaurijape.github.io/soft75/)
-A 75-day wellness challenge tracker built for a real friend group of 8 people. Production app with live users.
+My mom friend group — all of us turning 40 — wanted to do a 75-day wellness challenge together. No existing app felt right for our group, so I built one from scratch.
+- **Real problem:** 8 busy moms needed a simple shared habit tracker to stay accountable
+- **Result:** Production app with live users, running a full 75-day challenge together
 - **Stack:** HTML/CSS/JavaScript, Supabase (Postgres), GitHub Pages
 - **Features:** Lightweight auth, UTC-safe day calculation, historical calendar view, PWA support
 
 ### 📚 [Interview Prep — LeetCode & System Design](https://interview-prep-app-iota.vercel.app/)
-A personal study tool for senior software engineering interview prep. Built to learn by doing.
+I've been preparing for senior software engineering interviews and kept hitting the same gaps. Instead of just using someone else's resource, I built my own so I could learn by doing — and fill in exactly what I was missing.
+- **Real problem:** Generic study resources weren't addressing my specific weak spots
+- **Result:** A personal study tool I actually use daily, built around my own prep gaps
 - **Stack:** TypeScript, Supabase, Vercel
 - **Features:** LeetCode pattern glossary, complexity checks, system design trade-offs and walkthroughs
 
@@ -53,18 +58,3 @@ At Oracle Cloud Infrastructure, I:
 ---
 
 *"Solving everyday problems by building mini projects."*
-
-<!--
-**gaurijape/gaurijape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
