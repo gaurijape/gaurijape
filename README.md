@@ -7,6 +7,12 @@ I solve everyday problems by building mini projects. 🛠️
 ---
 
 ## 🚀 Projects
+### 📚 [Interview Prep — LeetCode & System Design](https://interview-prep-app-iota.vercel.app/)
+I've been preparing for senior software engineering interviews and kept hitting the same gaps. Instead of just using someone else's resource, I built my own so I could learn by doing — and fill in exactly what I was missing.
+- **Real problem:** Generic study resources weren't addressing my specific weak spots
+- **Result:** A personal study tool I actually use daily, built around my own prep gaps
+- **Stack:** TypeScript, Supabase, Vercel
+- **Features:** LeetCode pattern glossary, complexity checks, system design trade-offs and walkthroughs
 
 ### 🧠 [BrainBurst — Math & Science Practice](https://kid-quiz-app.vercel.app/)
 My son is going to 2nd grade and I wanted a fun, focused way to keep him sharp over summer. So I built one.
@@ -21,12 +27,7 @@ My mom friend group — all of us turning 40 — wanted to do a 75-day wellness 
 - **Stack:** HTML/CSS/JavaScript, Supabase (Postgres), GitHub Pages
 - **Features:** Lightweight auth, UTC-safe day calculation, historical calendar view, PWA support
 
-### 📚 [Interview Prep — LeetCode & System Design](https://interview-prep-app-iota.vercel.app/)
-I've been preparing for senior software engineering interviews and kept hitting the same gaps. Instead of just using someone else's resource, I built my own so I could learn by doing — and fill in exactly what I was missing.
-- **Real problem:** Generic study resources weren't addressing my specific weak spots
-- **Result:** A personal study tool I actually use daily, built around my own prep gaps
-- **Stack:** TypeScript, Supabase, Vercel
-- **Features:** LeetCode pattern glossary, complexity checks, system design trade-offs and walkthroughs
+
 
 ---
 
