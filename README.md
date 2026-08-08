@@ -10,7 +10,7 @@ I solve everyday problems by building mini projects. 🛠️
 ### 📚 [Interview Prep — LeetCode & System Design](https://interview-prep-app-iota.vercel.app/)
 An interactive interview preparation platform built around LeetCode patterns and System Design, with guided learning flows, complexity checks, progress tracking, and architecture trade-offs.
 - **Real problem:** Generic study resources weren't addressing my specific weak spots
-- **Result:** A personal study tool I actually use daily, built around my own prep gaps
+- **Result:** An interactive study platform I use daily to prepare for Senior SWE interviews.
 - **Stack:** TypeScript, Supabase, Vercel
 - **Features:** LeetCode pattern glossary, complexity checks, system design trade-offs and walkthroughs
 
