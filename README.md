@@ -1,6 +1,6 @@
 # Hi, I'm Gauri Jape 👋
 
-Senior Software Engineer with 10+ years of experience in cloud infrastructure and distributed systems. Most recently at **Oracle Cloud Infrastructure (OCI)** where I led large-scale backend migrations and built high-availability Load Balancer as a Service (LBaaS) systems serving thousands of enterprise customers.
+Senior Software Engineer with 12+ years of experience in cloud infrastructure and distributed systems. Most recently at **Oracle Cloud Infrastructure (OCI)** where I led large-scale backend migrations and built high-availability Load Balancer as a Service (LBaaS) systems serving thousands of enterprise customers.
 
 I solve everyday problems by building mini projects. 🛠️
 
@@ -8,7 +8,7 @@ I solve everyday problems by building mini projects. 🛠️
 
 ## 🚀 Projects
 ### 📚 [Interview Prep — LeetCode & System Design](https://interview-prep-app-iota.vercel.app/)
-I've been preparing for senior software engineering interviews and kept hitting the same gaps. Instead of just using someone else's resource, I built my own so I could learn by doing — and fill in exactly what I was missing.
+An interactive interview preparation platform built around LeetCode patterns and System Design, with guided learning flows, complexity checks, progress tracking, and architecture trade-offs.
 - **Real problem:** Generic study resources weren't addressing my specific weak spots
 - **Result:** A personal study tool I actually use daily, built around my own prep gaps
 - **Stack:** TypeScript, Supabase, Vercel
