@@ -20,7 +20,7 @@ My son is going to 2nd grade and I wanted a fun, focused way to keep him sharp o
 - **Result:** A kid-friendly quiz app he actually wants to use
 - **Stack:** JavaScript, Supabase, Vercel
 
-### 💪 [Soft75 — Wellness Habit Tracker](https://gaurijape.github.io/soft75/)
+### 💪 [Soft75 — Wellness Habit Tracker](https://github.com/gaurijape/soft75)
 My mom friend group — all of us turning 40 — wanted to do a 75-day wellness challenge together. No existing app felt right for our group, so I built one from scratch.
 - **Real problem:** 8 busy moms needed a simple shared habit tracker to stay accountable
 - **Result:** Production app with live users, running a full 75-day challenge together
